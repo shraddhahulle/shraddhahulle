@@ -4,9 +4,7 @@
 
 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shraddhahulle)  
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@shraddhahulle)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shraddhahulle442@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shraddha-hulle)[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@shraddhahulle442).[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shraddhahulle442@gmail.com)  
 
 
 💻 Tech Stack:
