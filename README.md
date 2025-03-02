@@ -3,6 +3,7 @@
 🧑‍💻 I’m currently worked on:<br>- Eiz Job Portal<br>- AI Memo<br>- NexSpend<br><br>- 🤝 I’m looking to collaborate on:<br>- Full-Stack Development projects<br>- Innovative tech solutions for productivity and job platforms<br><br>- 👐 I’m looking for help with:<br>- Advanced Spring Boot integrations<br>- Frontend design best practices for mobile and web apps<br><br>- 📚 I’m currently learning:<br>- Frontend frameworks to complement my backend projects<br>- Optimization techniques for scalable applications<br><br>- 💬 Ask me about:<br>- Building full-stack applications with Java and Spring Boot<br>- Marketing strategies and community growth for tech products<br><br>- ⚡ Fun fact:<br>I blend creativity from my marketing background with tech, bringing both innovation and functionality to my projects!
 
 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shraddhahulle)  
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@shraddhahulle)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shraddhahulle442@gmail.com)  
